@@ -1,0 +1,165 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="de-de" lang="de-de" dir="ltr" >
+<head>
+  <meta name="Publisher" content="itwolff.de" />
+  <meta name="Web-Design" content="itwolff.de" />
+  <meta name="Copyright" content="itwolff.de" />
+  <meta name="Revisit" content="After 7 days" />
+  <meta name="audience" content="All" />
+
+  <meta name="msvalidate.01" content="5E88024EE72EEE9CC9C8BCAA591D9F74" />
+
+  <meta name="google-site-verification" content="71sP2uh9l4R6thbUCp9a_lNoffajWX5gq3WarKJncBc" />
+
+<meta name="geo.region" content="DE-NW" />
+<meta name="geo.placename" content="Aachen" />
+<meta name="geo.position" content="50.785224;6.05336" />
+<meta name="ICBM" content="50.785224, 6.05336" />
+
+  <link rel="shortcut icon" href="http://itwolff.de/favicon.ico" /> 
+  <meta name="page-topic" content="itWolff Anwenudngen und Opensource" />
+  <meta http-equiv="content-language" content="de" />
+  <meta http-equiv="pragma" content="no-cache" />  
+
+  <!-- <base href="http://itwolff.de" /> -->
+  <meta http-equiv="content-type" content="text/html; charset=utf-8" />
+
+  <meta name="robots" content="index,follow,odp" />
+  <meta name="author" content="Markus Wolff" />
+
+  <!-- blueprint CSS framework -->
+  <link rel="stylesheet" type="text/css" href="/css/screen.css" media="screen, projection" />
+  <link rel="stylesheet" type="text/css" href="/css/print.css" media="print" />
+  <!--[if lt IE 8]>
+  <link rel="stylesheet" type="text/css" href="/css/ie.css" media="screen, projection" />
+  <![endif]-->
+
+  <link rel="stylesheet" type="text/css" href="/css/main.css" />
+  <link rel="stylesheet" type="text/css" href="/css/form.css" />
+  <meta name="title" content="itWolff.de" />
+<meta name="keywords" content="itWolff Anwendungen in der IT&quot;" />
+<meta name="description" content="itWolff Anwendungen in der IT&quot;" />
+<title>itWolff.de </title>
+</head>
+
+<body>
+
+
+<div class="container shadow" id="page">
+
+	<div id="header">
+            <div class="span-24" id="header_login" style="margin-right:7px;margin-top:6px;">
+                <b> 
+                    
+                                </b>
+            </div>
+		<div id="logo">
+                    <a href="."> 
+                  <img src="/images/itwolff_logo_trans.png" alt="itwolff logo" />  
+                    </a> 
+                </div>
+
+	</div><!-- header -->
+
+	<div class="shadow" id="mainmenu">
+		<ul id="yw2">
+<li class="active"><a href="/index.php?r=site/index">Start</a></li>
+<li><a href="/index.php?r=site/page&amp;view=internetseiten">Internetseiten</a></li>
+<li><a href="/index.php?r=site/page&amp;view=anwendungen">Anwendungen</a></li>
+<li><a href="/index.php?r=site/page&amp;view=opensource">Opensource</a></li>
+<li><a href="/index.php?r=site/contact">Kontakt</a></li>
+<li><a href="/index.php?r=site/page&amp;view=impressum">Impressum</a></li>
+</ul>	</div><!-- mainmenu -->
+	
+		<!-- breadcrumbs -->
+                
+	
+	<div class="span-19 last push-3" style="position:relative">
+	<div class="shadow"  id="content">
+		<h4 style="text-align:center">Anfragen unter 0241-51887051 oder <a href="mailto:info@itwolff.de">info@itwolff.de</a> </h4>
+
+<hr />
+<h3 style="text-align:center">
+  <a class="nolink" href="/index.php?r=site/page&amp;view=internetseiten">Internetseiten</a></h3>
+<div class="append-1"> 
+    
+     <div class='span-5' style='text-align:center'>
+      <img src="/images/thumb_domburg-zimmer.png" alt="Internetseite:domburg-zimmer.nl" />
+    <br/><b><a href="http://domburg-zimmer.nl">domburg-zimmer.nl</a></b>
+    </div>     
+     <div class='span-5' style='text-align:center'>
+      <img src="/images/thumb_ibb.png" alt="Internetseite:ibb.rwth-aachen.de" />
+    <br/><b><a href="http://www.ibb.rwth-aachen.de">www.ibb.rwth-aachen.de</a></b>
+    </div>     
+     <div class='span-5' style='text-align:center'>
+      <img src="/images/thumb_qcmed.png" alt="Internetseite:qcmed.de" />
+    <br/><b><a href="http://qcmed.de">www.qcmed.de</a></b>
+    </div>  </div>
+<hr />
+<div class="append-1" >
+<h3 style="text-align:center">
+  <a class="nolink" href="/index.php?r=site/page&amp;view=opensource">Opensource</a></h3>
+    
+     <div class='span-5' style='text-align:center'>
+      <img src="/images/thumb_ecommerce.png" alt="Opensource:ecommerce" />
+    <br/><b>Shopping</b>
+    </div>     
+     <div class='span-5' style='text-align:center'>
+      <img src="/images/thumb_trac.png" alt="Opensource:trac" />
+    <br/><b>Trac</b>
+    </div>     
+     <div class='span-5' style='text-align:center'>
+      <img src="/images/thumb_egroupware.png" alt="Opensource:egroupware" />
+    <br/><b>Egroupware</b>
+    </div> </div>
+<hr />
+<div class="append-1">
+<h3 style="text-align:center">
+  <a class="nolink" href="/index.php?r=site/page&amp;view=anwendungen">Anwendungen</a></h3>    
+    
+     <div class='span-5' style='text-align:center'>
+      <img src="/images/thumb_monitoring.png" alt="Anwendungen:monitoring" />
+    <br/><b>Monitoring</b>
+    </div>         
+     <div class='span-5' style='text-align:center'>
+      <img src="/images/thumb_voip.png" alt="Anwendungen:voip" />
+    <br/><b>Voip</b>
+    </div>     
+     <div class='span-5' style='text-align:center'>
+      <img src="/images/thumb_pdc_dms.png" alt="Anwendungen:pdc_dms" />
+    <br/><b>LDAP &amp; Samba</b>
+    </div> </div>
+<hr />
+   	</div><!-- content -->
+</div>
+<div class="span-4 pull-19 first" >
+	<div id="sidebar">
+		</div><!-- sidebar -->
+</div>
+
+
+	<div class="clear"></div>
+
+
+        
+          <div id="footer" class="layout"  >
+              <div class="span-1" >
+                <a href="http://validator.w3.org/check?uri=referer">
+                    <img src="http://www.w3.org/Icons/valid-xhtml10" alt="Valid XHTML 1.0 Transitional" height="21" width="68" />
+                </a>
+               </div>	 
+               <div class="span-18" style="margin-left:0px;margin-top:0px;text-algin:center"> &copy;  2015 itwolff.de </div>
+               <div class="span-3">
+                   <a class="addthis_button" style="text-align:right;margin-left:-50px;margin-top:0px;" href="http://www.addthis.com/bookmark.php?v=250&amp;pubid=ra-4dc0fe584c5df567"><img src="http://s7.addthis.com/static/btn/v2/lg-share-en.gif" width="125" height="16" alt="Bookmark and Share" style="border:0"/></a>
+               </div>
+
+
+<script type="text/javascript">var addthis_config = {"data_track_clickback":true,"data_track_addressbar":true};</script>
+<script type="text/javascript" src="http://s7.addthis.com/js/250/addthis_widget.js#pubid=ra-4dc0fe584c5df567"></script>
+<!-- AddThis Button END -->
+   </div><!-- footer -->
+
+</div><!-- page -->
+
+</body>
+</html>
